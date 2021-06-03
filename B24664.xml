@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and commission for the assesment of twelve thousand pounds by the month, for six months viz. from the twentie fourth of September 1656, exclusive : to the twenty fourth of March following, inclusive / by His Highness the Lord Protector's Council for the Affairs of Ireland.</title>
+            <author>Ireland. Council for the Affairs of Ireland.</author>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24664</idno><idno type="EEBO-CITATION">18367717_47358</idno>
+  <idno type="VID">47358</idno>
+  <idno type="EEBO-PROQUEST">2264172656</idno>
+  
+            <idno type="STC">Wing I337A</idno>
+            <idno type="STC">ESTC R39296</idno>
+            <idno type="OCLC">18367717</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24664)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47358)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1464:25 or 1636:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and commission for the assesment of twelve thousand pounds by the month, for six months viz. from the twentie fourth of September 1656, exclusive : to the twenty fourth of March following, inclusive / by His Highness the Lord Protector's Council for the Affairs of Ireland.</title>
+                  <author>Ireland. Council for the Affairs of Ireland.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Dublin? :</pubPlace>
+                  <date>1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Statement of responsibility transposed from head of title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>This item appears at reels 1464:25 and 1636:31. Copy at reel 1636:31 is misidentified as Wing I367A in the reel guide.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  Ireland.</term>
+               <term type="geographic_name">Ireland --  History --  1649-1660.</term>
+               <term type="geographic_name">Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tax_assessment">
+            <pb facs="tcp:47358:1"/>
+            <pb n="1" facs="tcp:47358:1"/>
+            <head>¶ By His Highness the Lord Protector's Council For the Affairs of IRELAND. ¶ A DECLARATION and COMMISSION for the Assesment of Twelve thousand Pounds by the Month, for Six Months; <hi>viz.</hi> From the twentie fourth of <hi>September</hi> 1656, exclusive: to the twenty fourth of <hi>March</hi> following, inclusive.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Ordinance of his Highness the Lord Protector of the Common-wealth of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and the Domini<g ref="char:EOLhyphen"/>ons thereunto belong<g ref="char:EOLhyphen"/>ing, with the advice of his Council, bearing date the <hi>23</hi> day of <hi>Iune, 1654.</hi> Entituled, <hi>An Or<g ref="char:EOLhyphen"/>dinance for the further en<g ref="char:EOLhyphen"/>couragement of the Adven<g ref="char:EOLhyphen"/>turers for Lands in</hi> Ire<g ref="char:EOLhyphen"/>land, <hi>and of the Souldiers, and other Planters there.</hi> It is
+<pb n="2" facs="tcp:47358:2"/> Ordained (amongst other things) That for one year, commencing the twenty fourth day of <hi>Iune 1656,</hi> and ending the twenty fourth day of <hi>Iune 1657,</hi> there shall be Taxed, Assessed, and Leavied, upon all the Counties, Towns, and places in Ireland, and all the Estates real and personal therein, the sum of Twelve thousand pounds, for every month during that year. It is there<g ref="char:EOLhyphen"/>fore hereby Ordered and Declared, That towards the pay of his Highness forces in Ireland, and other publick charges, there shall be Taxed, Assessed, and Leavied, upon all the Counties, Towns, and places in Ireland, and all the Estates real and personal therein, from the twenty fourth of <hi>September 1656</hi> exclusive, to the twenty fourth day of <hi>March</hi> following inclusive, being Six months, after the rate of Twelve thousand pounds by the month, according to the sums hereafter named, by the several sums, and according to the several dates, and proportions hereafter expressed, <hi>viz.</hi> For the first Three Months Assesment, commencing the four and twentyeth of <hi>September</hi> next exclusive, and ending the twenty fourth day of <hi>December</hi> following inclusive,</p>
+            <p>Vpon the Countie of <hi>Dublin,</hi> the sum of One thou<g ref="char:EOLhyphen"/>sand four hundred and fourty pounds And from and after the said twenty fourth day of <hi>December</hi> exclusive, to the twenty fourth day of <hi>March</hi> following inclusive, being the later three Months Assesment, the like Sum of one thousand, four hundred and forty pounds.</p>
+            <p>
+               <list>
+                  <item>The City and County of the Citie of <hi>Dublin,</hi> the sum of nine hundred &amp; sixty pounds. And from and after the said twenty fourth day of <hi>December</hi> exclusive, to the twenty fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of nine hundred and sixty pounds.</item>
+                  <item>The Countie of <hi>Kildare,</hi> the sum of eight hundred, and fourty pounds. And from and after the said twenty
+<pb n="3" facs="tcp:47358:2"/> fourth day of <hi>December</hi> exclusive, to the twenty fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of eight hundred, and forty pounds</item>
+                  <item>The Countie of <hi>Catherlogh,</hi> the sum of two hundred twentie eight pounds. And from and after the said twentie fourth day of <hi>December</hi> exclusive, to the twentie fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of two hundred, twentie eight pounds.</item>
+                  <item>The <hi>Kings</hi> County, the sum of two hundred, seaven<g ref="char:EOLhyphen"/>ty and six pounds. And from, and after the said twen<g ref="char:EOLhyphen"/>tie fourth day of <hi>December</hi> exclusive, to the twentie fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of two hundred, seventy six pounds.</item>
+                  <item>The <hi>Queens</hi> Countie, the sum of four hundred and fifteen pounds, our shillings. And from and after the said twenty fourth day of <hi>December</hi> exclusive, to the twentie fourth day of <hi>March</hi> following inclusive, be<g ref="char:EOLhyphen"/>ing other three Months, the like sum of four hundred, and fifteen pounds, four shillings.</item>
+                  <item>The County of <hi>Longford,</hi> the sum of one hundred thirty and two pounds. And from and after the said twenty fourth day of <hi>December</hi> exclusive, to the twen<g ref="char:EOLhyphen"/>ty fourth of <hi>March</hi> following inclusive, being other three Months, the like sum of one hundred thirty two pounds.</item>
+                  <item>The Countie of <hi>East-Meath,</hi> the sum of three thou<g ref="char:EOLhyphen"/>sand two hundred and five pounds, four shillings. And from and after the said twenty fourth day of <hi>December</hi> exclusive, to the twenty fourth of <hi>March</hi> following in<g ref="char:EOLhyphen"/>clusive, being other three Months, the like sum of
+<pb n="4" facs="tcp:47358:3"/> three thousand, two hundred and five pounds, four shil<g ref="char:EOLhyphen"/>lings.</item>
+                  <item>The County of <hi>West-Meath,</hi> the sum of six hundred eighty four pounds. And from and after the said twen<g ref="char:EOLhyphen"/>ty fourth day of <hi>December</hi> exclusive, to the twenty fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of six hundred eighty and four pounds.</item>
+                  <item>The Countie of <hi>Kilkenny</hi> and Citie, the sum of one thousand nine hundred and two pounds. And from and after the said twenty fourth day of <hi>December</hi> exclusive, to the twenty fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of one thou<g ref="char:EOLhyphen"/>sand nine hundred and two pounds.</item>
+                  <item>The County of <hi>Wexford,</hi> and the Town of <hi>Wexford,</hi> the sum of six hundred ninety six pounds. And from and after the said twenty fourth day of <hi>December</hi> exclu<g ref="char:EOLhyphen"/>sive; to the twenty fourth day of <hi>March</hi> following inclu<g ref="char:EOLhyphen"/>sive, being other three Months, the like sum of six hun<g ref="char:EOLhyphen"/>dred ninety and six pounds.</item>
+                  <item>The County of <hi>Wicklo,</hi> the sum of one hundred &amp; twen<g ref="char:EOLhyphen"/>ty pounds. And from and after the said twenty fourth day of <hi>December</hi> exclusive, to the twenty fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of one hundred and twenty pounds.</item>
+                  <item>The County of <hi>Lowth,</hi> with the Town of <hi>Tredagh,</hi> the sum of nine hundred twenty one pounds, twelve shillings And from and after the said twenty fourth day of <hi>December</hi> exclusive, to the twenty fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of nine hundred twenty one pounds, twelve shillings.</item>
+                  <pb facs="tcp:47358:3"/>
+                  <pb facs="tcp:47358:4"/>
+                  <pb n="5" facs="tcp:47358:4"/>
+                  <item>The Countie of <hi>Limerick,</hi> with the City and Countie thereof, the sum of one thousand one hundred fourty two pounds, eight shillings. And from, and after the said twentie fourth day of <hi>December</hi> exclusive, to the twentie fourth of <hi>March</hi> following inclusive, being o<g ref="char:EOLhyphen"/>ther three Months, the like sum of one thousand, one hundred, and fortie two pounds, eight shillings.</item>
+                  <item>The Countie of <hi>Corke,</hi> with the Citie and Countie thereof, the sum of four thousand nine hundred twen<g ref="char:EOLhyphen"/>ty nine pounds, twelve shillings. And from, and after the said twentie fourth day of <hi>December</hi> exclusive, to the twentie fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of four thou<g ref="char:EOLhyphen"/>sand, nine hundred and twentie nine pounds, twelve shillings.</item>
+                  <item>The Countie of <hi>Waterford,</hi> with the Citie and Coun<g ref="char:EOLhyphen"/>ty thereof, the sum of one thousand, five hundred and sixty pounds. And from, and after the said twentie fourth day of <hi>December</hi> exclusive, to the twentie fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of one thousand, five hundred, and sixtie pounds.</item>
+                  <item>The Countie of <hi>Clare,</hi> the sum of seaven hundred fourty and five pounds, four shillings. And from, and after the said twentie fourth day of <hi>December</hi> exclu<g ref="char:EOLhyphen"/>sive, to the twentie fourth day of <hi>March</hi> following, in<g ref="char:EOLhyphen"/>clusive, being other three Months, the like sum of seven hundred, fortie five pounds, four shillings.</item>
+                  <item>The Countie of <hi>Kerry,</hi> the sum of two hundred, and fourty pounds. And from, and after the said twentie fourth day of <hi>December</hi> exclusive, to the twentie fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of two hundred and fourtie pounds.</item>
+                  <pb n="6" facs="tcp:47358:5"/>
+                  <item>The Countie of <hi>Tipperary,</hi> including <hi>Holicross,</hi> the sum of two thousand two hundred and eighty pounds. And from and after the said twenty fourth day of <hi>De<g ref="char:EOLhyphen"/>cember</hi> exclusive, to the twenty fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of two thousand two hundred and eighty pounds.</item>
+                  <item>The Countie of <hi>Donegal,</hi> the sum of one thousand four hundred eighty and eight pounds. And from, and after the said twentie fourth day of <hi>December</hi> exclu<g ref="char:EOLhyphen"/>sive, to the twentie fourth day of <hi>March</hi> following inclu<g ref="char:EOLhyphen"/>sive, being ther three Months the like sum of one thou<g ref="char:EOLhyphen"/>sand four hundred, eightie eight pounds.</item>
+                  <item>The Countie of <hi>Tirone,</hi> the sum of six hundred pounds. And from, and after the said twentie fourth day of <hi>December</hi> exclusive, to the twentie fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of six hundred pounds.</item>
+                  <item>The County of <hi>Fermanagh,</hi> the sum of three hun<g ref="char:EOLhyphen"/>dred and sixty pounds. And from and after the said twenty fourth day of <hi>December</hi> exclusive, to the twen<g ref="char:EOLhyphen"/>ty fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of three hundred and sixty pounds.</item>
+                  <item>The County of <hi>Cavan,</hi> the sum of two hundred and four pounds. And from and after the said twenty fourth day of <hi>December</hi> exclusive, to the twenty fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of two hundred and four pounds.</item>
+                  <item>The Countie of <hi>Monaghan,</hi> the sum of one hundred sixty and six pounds, sixteen shillings. And from, and after the said twentie fourth day of <hi>December</hi> exclusive, to the twentie fourth day of <hi>March</hi> following inclusive,
+<pb n="7" facs="tcp:47358:5"/> being other three Months, the like sum of one hundred, sixty, and six pounds, sixteen shillings.</item>
+                  <item>The Countie of <hi>Antrim</hi> and the Town of <hi>Carricfergus,</hi> the sum of two thousand, four hundred, and eighty four pounds And from, and after the said twentie fourth day of <hi>December</hi> exclusive, to the twentie fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of two thousand, four hundred, and eightie four pounds.</item>
+                  <item>The Countie of <hi>Downe,</hi> the sum of two thousand, and eighty eight pounds. And from, and after the said twentie fourth day of <hi>December</hi> exclusive, to the twentie fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of two thousand, eightie and eight pounds.</item>
+                  <item>The County of <hi>Ardmagh,</hi> the sum of four hundred, thirty and two pounds. And from, and after the said twentie fourth day of <hi>December</hi> exclusive, to the twentie fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of four hundred, thirtie, and two pounds.</item>
+                  <item>The Countie of <hi>London-Derry,</hi> and the Citie, and County thereof, and the Town and Barony of <hi>Colerane,</hi> the sum of one thousand, three hundred and eighty pounds. And from, and after the said twentie fourth day of <hi>December</hi> exclusive, to the twentie fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of one thousand, three hundred and eightie pounds.</item>
+                  <item>The Countie of <hi>Galloway,</hi> the sum of two thousand, five hundred, and twenty pounds. And from, and af<g ref="char:EOLhyphen"/>ter the said twentie fourth day of <hi>December</hi> exclusive, to the twenty fourth day of <hi>March</hi> following inclusive,
+<pb n="8" facs="tcp:47358:6"/> being other three Months, the like sum of two thou<g ref="char:EOLhyphen"/>sand, five hundred, and twenty pounds.</item>
+                  <item>The Countie of <hi>Roscomon,</hi> the sum of five hundred and sixty four pounds. And from, and after the said twentie fourth day of <hi>December</hi> exclusive, to the twen<g ref="char:EOLhyphen"/>tie fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of five hundred and sixty four pounds.</item>
+                  <item>The Countie of <hi>Sligo,</hi> the sum of three hundred and sixty pounds. And from, and after the said twentie fourth day of <hi>December</hi> exclusive, to the twentie fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of three hundred, and sixtie pounds.</item>
+                  <item>The Countie of <hi>Mayo,</hi> the sum of five hundred, and sixteen pounds. And from, and after the said twen<g ref="char:EOLhyphen"/>tie fourth day of <hi>December</hi> exclusive, to the twentie fourth day of <hi>March</hi> following inclusive, being other three Months, the like sum of five hundred, and sixteen pounds.</item>
+                  <item>The Countie of <hi>Leitrim,</hi> the sum of one hundred and twenty pounds. And from, and after the said twentie fourth day of <hi>December</hi> exclusive, to the twen<g ref="char:EOLhyphen"/>tie fourth day of <hi>March</hi> following inclusive, being o<g ref="char:EOLhyphen"/>ther three Months, the like sum of one hundred, and twentie pounds.</item>
+               </list>
+            </p>
+            <p>AND it is farther Ordered, That the several Com<g ref="char:EOLhyphen"/>missioners of the respective Counties and places, no<g ref="char:EOLhyphen"/>minated in an Order and Commission for the Assesment, bearing date the twenty eight of <hi>March</hi> last; as also those that are since appointed by Our Order in Writing, shall be and are hereby ordered to be Commissioners for the Assessing, Leavying, and Collecting the Assesments aforesaid.</p>
+            <pb n="9" facs="tcp:47358:6"/>
+            <p>And it is further ordered, and declared, that the She<g ref="char:EOLhyphen"/>rifs within each Countie respectively do forthwith upon receipt hereof appoint the time and place of meeting of the Commissioners within the respective Counties, and that the time of such meeting be within six days after the Receipt hereof by the said Sherifs, and in the chief Towns within each of the said Counties, or in some o<g ref="char:EOLhyphen"/>ther Convenient place, in order to the timely and effectu<g ref="char:EOLhyphen"/>all putting the said Commission in Execution.</p>
+            <p>And it is hereby ordered, and declared, that the said Assessment is to be Assessed, Raised, and Levyed for the times aforesaid, and to be taxed, and assessed by a pound Rate equally on the severall Devisions, Baronies, and Parishes in the respective Counties, Cities, and places aforesaid, for all, and every the Lands, Tenements, and Hereditaments, Goods, Chattels, Moneys, Stock, and Estate, yeilding any profit or increase, according to the value thereof, (that is to say) as much upon every twenty shillings Rent, or yearly value of Land, and re<g ref="char:EOLhyphen"/>all Estate; as upon Money, Stock, and other personall Estate, by an equall Rate; wherein, every five pounds in Money, Stock, or other personall Estate shall beare the like charge, as shall be laid upon every twenty shil<g ref="char:EOLhyphen"/>lings yearly Rent, or yearly value of Land, as will raise the monthly sum, or sums charged upon the re<g ref="char:EOLhyphen"/>spective Counties, or places aforesaid; And the said Commissioners, or any three, or more of them shall at their said first meeting, and after publick reading here<g ref="char:EOLhyphen"/>of) then, and there chuse, nominate, and appoint, two or three, (or more if they shall think fit) of the able and honest Protestant English Inhabitants (if it may be) in the several, and respective Baronies, Towns, Parishes, or Cities aforesaid; and them to appoint to take a parti<g ref="char:EOLhyphen"/>cular and exact inquiry, survey, or estimate of each mans Lands, Tenements, Rent, and Stock, in every respective Citie, Town, Village, or Place; together with the yearly value, and Profits of the same: And to
+<pb n="10" facs="tcp:47358:7"/> Return the said inquiry, Survey, or Estimate under their hands in writing to the said Commissioners, or to such person or persons of them, as shall be by the said Commissioners appointed to receive the same.</p>
+            <p>And it is further ordered, that the severall Commissi<g ref="char:EOLhyphen"/>oners appointed for the respective Counties and Cities aforesaid, shall (in Assessing, Levying, and Collecting the Assessments aforesaid) observe the directions and in<g ref="char:EOLhyphen"/>structions in the order and Commission for the Assess<g ref="char:EOLhyphen"/>ments, bearing date the first of Ianuary, <hi>1654.</hi> and the respective powers and directions in the said order and Commission the aforesaid Commissioners or any three or more of them, are impowred to put in effectuall exe<g ref="char:EOLhyphen"/>cution. Provided nevertheless, that if the way of a pound rate shall prove prejudiciall and obstructive to the bringing in of the respective Assessments hereby appoin<g ref="char:EOLhyphen"/>ted or ordered, that then and in all such cases the major part of the said Commissioners in any of the Counties and Cities aforesaid, being met according to the sum<g ref="char:EOLhyphen"/>mons given by the High Sherif in each Countie, shall be and are authorised to proceed accordingly to the most just and equall way of Rates held in such places in the apportioning, assessing, and levying the respective sums charged upon them. Provided also, that notwithstand<g ref="char:EOLhyphen"/>ing any former practice or directions, no Commissioners hereby named shall be forced to go out of the Countrey, for which they serve or are appointed, for the mannaging of the said severall Assessments. And to the end no im<g ref="char:EOLhyphen"/>pediment may be in the mannaging the work aforesaid, the said Commissioners, or any five or more of them, are hereby impowred, to chuse, nominate and appoint such <gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing Clerk or Clerks, as shall be necessary for Tran<g ref="char:EOLhyphen"/>scribing the said Assessments, Certificates, or other Pa<g ref="char:EOLhyphen"/>pers relating to the said Assessments.</p>
+            <p>And to the end the Forces (whose pay depends upon the said Assesments) may not be exposed or necessitated
+<pb n="11" facs="tcp:47358:7"/> to take Free-quarter from the Country; or other incon<g ref="char:EOLhyphen"/>veniences be put upon the said Forces or Country: It is farther Ordered, That the aforesaid Assesment, after the rate of Twelve thousand pounds by the Month, for the first three Months, (commencing the twenty fourth of September <hi>1656,</hi> exclusive, and ending the twenty fourth day of December following inclusive) be Levi<g ref="char:EOLhyphen"/>ed, Collected and paid into the hands of the Receivers in the respective Counties, at or before the first day of October <hi>1656;</hi> And that the Assesment of Twelve thou<g ref="char:EOLhyphen"/>sand pounds by the Month, (commencing the said twen<g ref="char:EOLhyphen"/>ty fourth day of December exclusive, and determining the twenty fourth day of March following inclusive) be likewise Levied, Collected and paid into the hands of the Receivers in the respective Counties aforemention<g ref="char:EOLhyphen"/>ed, at or before the first day of Ianuary next after the Date hereof.</p>
+            <p>And the Sherifs of the respective Counties for the time being, are hereby strictly required to take effectual care that the said several Assesments be Assessed and Le<g ref="char:EOLhyphen"/>vied in manner as aforesaid: For which purpose, they are hereby nominated and appointed to be Commission<g ref="char:EOLhyphen"/>ers within their respective Bailifwicks.</p>
+            <p>And the said Commissioners nominated for the said Assesments, are also to cause the said Assesments, with<g ref="char:EOLhyphen"/>in their respective Counties and Divisions, to be fairly written and subscribed by them, and delivered to the re<g ref="char:EOLhyphen"/>spective Receivers within the said respective Counties. And it is farther Ordered, That the said Receivers do then forthwith after receipt thereof, send or cause to be sent unto the Clerk of the Council at Dublin, A true Copie of the said Assesments of the respective Counties and Villages within the said Precincts.</p>
+            <closer>
+               <dateline>
+                  <hi>Dated at the Council-Chamber in Dublin</hi>
+                  <date>
+                     <hi>August <hi>22.1656.</hi>
+                     </hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Thomas Herbert <hi>Clerk of the Council.</hi>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <pb facs="tcp:47358:8"/>
+            <opener>
+               <byline>By his Highness the Lord Protector's Council for the Affairs of IRELAND.</byline>
+            </opener>
+            <p>ORdered, That this Declaration and Commission for the Assesments be forth<g ref="char:EOLhyphen"/>with Printed and Published.</p>
+            <closer>
+               <signed>
+                  <hi>Thomas Herbert</hi> Clerk of the Council.</signed>
+            </closer>
+            <pb facs="tcp:47358:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
